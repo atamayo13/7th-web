@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://www.legat.com/wp-content/uploads/2023/05/John-Hancock-College-Preparatory-High-School-featured.jpg")
+}
+
+table, th, td {
+    border: 1px solid black
+}
+
+table {
+    background-color: lightblue;
+}
+
+h1{
+    color: darkred
+}
